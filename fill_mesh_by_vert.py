@@ -12,7 +12,7 @@ from bpy_extras import view3d_utils
 
 bl_info = {
     "name": "Fill mesh by vert",
-    "author": "Takigami Ryota",
+    "author": "headphones",
     "version": (0, 1, 0),
     "blender": (3, 1, 2),
     "location": "View3D > Sidebar",
